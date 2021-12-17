@@ -5,7 +5,7 @@ A recommendation system focuses on information filtering  to predict a user's pr
 Html, Css, JavaScript, Bootstrap etc
 
 #### ML Libraries Used 
-Numpy , Pandas , Scipy
+Numpy, Scipy, Pandas etc 
 
 #### Database
 MySQL
